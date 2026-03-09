@@ -1,0 +1,25 @@
+.center_img{
+     text-align: center;
+}
+.logo {
+    height: 150px;
+    width: 300px;
+    border-radius: 10px;
+}
+.creator{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    border: 5px solid #000000;
+}
+
+h1{
+    text-align: center;
+    color: rgb(20, 220, 37);
+    font-style: italic;
+}
+
+h2{
+color: red;
+}
+
